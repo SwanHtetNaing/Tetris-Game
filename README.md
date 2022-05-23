@@ -1,2 +1,2 @@
 # Tetris-Game
-The game that i successfully created first time.
+A game that I developed for the first time.
